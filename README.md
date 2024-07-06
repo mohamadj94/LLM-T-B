@@ -35,7 +35,7 @@ LLM-T-B uses the Telegram Bot API to interact with users. When a message is rece
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/llm-t-b.git
+git clone https://github.com/mohamadj94/llm-t-b.git
 cd llm-t-b
 ```
 
