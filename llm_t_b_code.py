@@ -118,7 +118,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Telegram bot token (replace with your bot token obtained from BotFather)
-TOKEN = '7269587692:AAGga__l2lzBjiVFQM9yyxAD-oqjjlRNT_4'
+TOKEN = 'API-KEY-TELEGRAM_BOT'
 
 # Select LLM model from gpt4all
 model = GPT4All("gpt4all-13b-snoozy-q4_0.gguf")
